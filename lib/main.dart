@@ -32,6 +32,7 @@ class MyApp extends StatelessWidget {
             ),
       ),
       //home: CategoryScreen(),
+      //hi
       initialRoute: '/',
       routes: {
         '/': (ctx) => TabsScreen(),
